@@ -1,2 +1,4 @@
 Hi, I’m @engelhartrueben, better known as Ruby! (He / Him / His)
-I’m currently learning how to actually use JS, Python, and SQL.
+JS | Python | SQL | Java | CSS | HTML 
+
+Ask me about my baby homelab setup!
