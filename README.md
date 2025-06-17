@@ -25,5 +25,5 @@
 <div>
 <div align=center>
   <h2>Technologies</h2>
-  <p>Rust | JS/TS | Python | Java | SQL | CSS | HTML</p>
+  <p>Rust | JS/TS | Lua | Python | Java | SQL | CSS | HTML</p>
 </div>
