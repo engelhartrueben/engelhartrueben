@@ -9,7 +9,7 @@
 <div>
   <h2 align=center>Summary</h2>
   <p>
-    A tested junior engineer currently finishing his Bachelors in Copmuter Science. My focus is on <a href="https://github.com/coal-rock/Pantheon">Pantheon</a>, solidifying my expertise in Rust, and learning/developing microservices capable of seemless integration. 
+    A tested junior engineer currently finishing his Bachelors in Copmuter Science. Building Roblox packages with <a href="https://github.com/CerebralLabs/">Cerbral Labs</a>.
   </p>
 </div>
 <div>
