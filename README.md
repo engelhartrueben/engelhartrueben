@@ -16,6 +16,7 @@
   <h2 align=center>About me</h2>
   <ul>
     <li>Previous maintainer of <a href="https://github.com/StateVoicesNational/Spoke">Spoke</a>, an open-source, peer-to-peer texting platform used across the globe.</li>
+    <li>Started <a href="https://github.com/CerebralLabs">CerebralLabs</a> and made <a href="https://github.com/CerebralLabs/cerebral">cerebral</a>, a Roblox all-in-one player state management tool. 
     <li>Math enjoyer. I am employed by the University of Albany as a Supplemental Instructor in their Mathematics Department.</li>
     <li>Avid reader. Lover of Douglas Adams, Brandon Sanderson, Cixin Liu, and Suzanne Collins.</li>
     <li>BS in Political Science from Black Hills State University. Completed May 2022.</li>
