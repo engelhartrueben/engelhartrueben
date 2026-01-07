@@ -9,7 +9,7 @@
 <div>
   <h2 align=center>Summary</h2>
   <p>
-    A tested junior engineer currently finishing his Bachelors in Copmuter Science. Building Roblox packages with <a href="https://github.com/CerebralLabs/">Cerbral Labs</a>.
+    A tested engineer currently finishing his Bachelors in Computer Science. Building Roblox packages with <a href="https://github.com/CerebralLabs/">Cerbral Labs</a>.
   </p>
 </div>
 <div>
